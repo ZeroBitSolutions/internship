@@ -311,7 +311,7 @@ button {
 
 .banner_main {
      background: #0c0f38;
-     background-image:url(/data-web/images/studentforbanner.jpg) ;
+     background-image:url(/images/studentforbanner.jpg) ;
      /* filter: grayscale(100%); */
      background-position:right 0px  ;
      background-size: 100% 100%;
